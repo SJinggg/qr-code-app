@@ -12,4 +12,4 @@ This application contains features including:
 
 ## Screenshot
 
-![Screenshot](./Screenshot.png "Screenshot of the Interface")
+<img src="./Screenshot.png" width="200" alt="Screenshot">
